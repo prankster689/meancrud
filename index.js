@@ -4,7 +4,6 @@ var app=express();
 
 require("./model/db")
 
-//hello
 
 
 
